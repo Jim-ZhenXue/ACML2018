@@ -39,3 +39,4 @@ Dr. Zhen Xue, Shanghai Yixue Education Technology Ltd., China       xuezhen@song
 
 4)Li H., Cui W., Xu Z., Zhu Z., & Feng M. (2018). Yixue adaptive learning system and its promise on improving student learning. Proceedings of the 10th International Conference on Computer Supported Education. http://www.scitepress.org/Papers/2018/66898/66898.pdf
 
+ 
